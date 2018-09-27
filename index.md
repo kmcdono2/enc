@@ -6,7 +6,7 @@ layout: default
 
 ### Enlightenment Geographical Information
 
-<i class="fas fa-book-open fa-3x fa-pull-left"></i> This site shares work-in-progress on space and place in Diderot and d'Alembert's (Encyclopédie)[https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/]. 
+<i class="fas fa-book-open fa-3x fa-pull-left"></i> This site shares work-in-progress on space and place in Diderot and d'Alembert's [Encyclopédie](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/).
 
 
 > "Questions of spatiality – the geography of and in things, be they places,
@@ -21,8 +21,8 @@ then also address the interpretative significance that comes with thinking
 geographically about intellectual history and the lived experience of the
 eighteenth century."[^1]
 
-Encyclopédie Image
-<img src="images/hello.svg" alt="sample image">
+
+<img src="images/ENC_7-608.jpeg" alt="page image">
 
 
 ### Extended Named Entities
