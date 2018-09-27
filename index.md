@@ -2,11 +2,35 @@
 layout: default
 ---
 
-## Katherine McDonough, Ludovic Moncla, Matje van de Camp
+## Katherine McDonough
+## Ludovic Moncla
+## Matje van de Camp
 
-### Enlightenment Geographical Information
+### Project Introduction
 
-<i class="fas fa-book-open fa-3x fa-pull-left"></i> This site shares work-in-progress on space and place in Diderot and d'Alembert's [Encyclopédie](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/).
+This site shares work-in-progress on space and place in Diderot and d'Alembert's [Encyclopédie](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/). We are a research collective experimenting on geographic information retrieval in reference texts from early modern France. We are one historian, one computer scientist, and one computational linguist.
+
+Our work at the moment focuses on using new methods in Named Entity Recognition (NER) to interpret the spatial horizons of the *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres* (First Paris edition 1751-1772, in 17 volumes of text and 11 volumes of plates). There are 44,632 total text entries and 14,445 entries classified by the original editors as *Géographie*.
+
+We use a customized version of (PERDIDO)[http://erig.univ-pau.fr/PERDIDO/] to answer questions like:
+- What are the "black holes" of geographic information in early modern reference works?
+- How do authors structure the delivery of geographic information?
+
+Specifically for the Encyclopédie, we study:
+- The relationships between spatial information, people, ideas, and other entities (such as events, objects, or institutions);
+- How rural spaces are represented;
+- How we might re-categorize geography subject articles based on their content (e.g. biographical) rather than their temporal or political status (modern, ancient, ecclsiastical, etc.).
+
+##### Recent and forthcoming publications:
+
+Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities, 2019.
+
+Katherine McDonough, “Putting the Eighteenth Century on the Map: A Proposal for Early Modern French Geospatial Data Development,” in *Digitizing Enlightenment*, ed. by Glenn Roe and Simon Burrows (Oxford Studies in the Enlightenment, 2019).
+
+Katherine McDonough and Matje van de Camp, “Mapping the Encyclopédie: Geographic Text Analysis for the French Enlightenment,” *Proceedings: ACM SIGSPATIAL Workshop on Geospatial Humanities*, 7 November 2017.
+
+### Early Modern Geographical Information
+
 
 
 > "Questions of spatiality – the geography of and in things, be they places,
@@ -41,7 +65,8 @@ eighteenth century."[^1]
 
 #### Cite this work
 
-McDonough, K., & Moncla, L. (2018). Spatial History of the Encyclopédie. Retrieved (insert the date your retrieved the information here without parentheses) from
-http://kmcdono.com/enc
+McDonough, K., Moncla, L., & van de Camp, M. (2018). Spatial History of the Encyclopédie. Retrieved (insert the date your retrieved the information here without parentheses) from http://kmcdono.com/enc.
+
+Contact [us](kmcdono2@stanford.edu)
 
 {% include sharing.html %}
