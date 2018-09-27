@@ -49,9 +49,6 @@ description of ENE...
 
 <hr>
 
-#### Footnotes
-
-[^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," *Journal for Eighteenth-Century Studies* 34, no. 4 (2011): 449.
 
 ##### Recent and forthcoming publications:
 
@@ -71,3 +68,7 @@ Contact [Katherine McDonough](https://library.stanford.edu/people/kmcdono2) by [
 Contact [Ludovic Moncla](https://lmoncla.ddns.net/) by [email](ludovic.moncla@insa-lyon.fr)
 
 {% include sharing.html %}
+
+#### Footnotes
+
+[^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," *Journal for Eighteenth-Century Studies* 34, no. 4 (2011): 449.
