@@ -22,7 +22,7 @@ geographically about intellectual history and the lived experience of the
 eighteenth century."[^1]
 
 
-<img src="images/ENC_7-608.jpeg" alt="page image">
+<img align="right" width="100" src="images/ENC_7-608.jpeg" alt="page image">
 
 
 ### Extended Named Entities
@@ -31,22 +31,17 @@ eighteenth century."[^1]
 
 ### Examples
 
-<ul class="fa-ul">
-<li><i class="fas fa-globe-americas"></i> Freysach </li>
-</ul>
 
 
+<hr>
 
 #### Footnotes:
 
 [^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," Journal for Eighteenth-Century Studies 34, no. 4 (2011): 449.
 
-
-
 #### Cite this work
 
-HOW TO CITE
-
-<hr>
+McDonough, K., & Moncla, L. (2018). Spatial History of the Encyclopédie. Retrieved (insert the date your retrieved the information here without parentheses) from
+http://kmcdono.com/enc
 
 {% include sharing.html %}
