@@ -60,11 +60,11 @@ Katherine McDonough and Matje van de Camp, “Mapping the Encyclopédie: Geograp
 
 #### Cite this work
 
-McDonough, K., Moncla, L., & van de Camp, M. (2018). Spatial History of the Encyclopédie. Retrieved (insert the date your retrieved the information here without parentheses) from http://kmcdono.com/enc.
+McDonough, K., Moncla, L., & van de Camp, M. (2018). Spatial History of the *Encyclopédie*. Retrieved [insert the date you retrieved the information here without brackets] from http://kmcdono.com/enc.
 
 #### Contact us
 
-Contact [Katherine McDonough](https://library.stanford.edu/people/kmcdono2) by [email](kmcdono2@stanford.edu)
+Contact [Katherine McDonough](https://library.stanford.edu/people/kmcdono2) by [email](kmcdono2@stanford.edu)  
 Contact [Ludovic Moncla](https://lmoncla.ddns.net/) by [email](ludovic.moncla@insa-lyon.fr)
 
 {% include sharing.html %}
