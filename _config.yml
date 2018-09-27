@@ -3,7 +3,7 @@ title: Spatial History of the Encyclopédie
 tag_text: Spatial History of the Encyclopédie
 description: Research Project on Space and Place in Diderot and d'Alembert's Encyclopédie
 url: "http://kmcdono.com"
-baseurl: "/enc"
+baseurl: "/enc/"
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
