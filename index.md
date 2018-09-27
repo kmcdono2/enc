@@ -59,14 +59,17 @@ eighteenth century."[^1]
 
 <hr>
 
-#### Footnotes:
+#### Footnotes
 
-[^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," Journal for Eighteenth-Century Studies 34, no. 4 (2011): 449.
+[^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," *Journal for Eighteenth-Century Studies* 34, no. 4 (2011): 449.
 
 #### Cite this work
 
 McDonough, K., Moncla, L., & van de Camp, M. (2018). Spatial History of the Encyclopédie. Retrieved (insert the date your retrieved the information here without parentheses) from http://kmcdono.com/enc.
 
-Contact [us](kmcdono2@stanford.edu)
+#### Contact us
+
+Contact [Katherine McDonough](https://library.stanford.edu/people/kmcdono2) by [email](kmcdono2@stanford.edu)
+Contact [Ludovic Moncla](https://lmoncla.ddns.net/) by [email](ludovic.moncla@insa-lyon.fr)
 
 {% include sharing.html %}
