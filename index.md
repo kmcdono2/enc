@@ -4,13 +4,13 @@ layout: default
 
 ## Katherine McDonough, Ludovic Moncla, Matje van de Camp
 
-### Project Introduction
+### What's happening here?
 
 This site shares work-in-progress on space and place in Diderot and d'Alembert's [Encyclopédie](https://artflsrv03.uchicago.edu/philologic4/encyclopedie1117/). We are a research collective experimenting on geographic information retrieval in reference texts from early modern France. We are one historian, one computer scientist, and one computational linguist.
 
 Our work at the moment focuses on using new methods in Named Entity Recognition (NER) to interpret the spatial horizons of the *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres* (First Paris edition 1751-1772, in 17 volumes of text and 11 volumes of plates). There are 44,632 total text entries and 14,445 entries classified by the original editors as *Géographie*.
 
-We use a customized version of (PERDIDO)[http://erig.univ-pau.fr/PERDIDO/] to answer questions like:
+We use a customized version of [PERDIDO](http://erig.univ-pau.fr/PERDIDO/=) to answer questions like:
 - What are the "black holes" of geographic information in early modern reference works?
 - How do authors structure the delivery of geographic information?
 - What are the relationships between spatial information, people, ideas, and other entities (such as events, objects, or institutions)?
@@ -19,7 +19,7 @@ We use a customized version of (PERDIDO)[http://erig.univ-pau.fr/PERDIDO/] to an
 
 ### Early Modern Geographical Information
 
-
+thoughts...
 
 > "Questions of spatiality – the geography of and in things, be they places,
 peoples, books, ideas or representational procedures such as writing and
@@ -41,11 +41,11 @@ eighteenth century."[^1]
 
 ### Extended Named Entities
 
-
+description of ENE...
 
 ### Examples
 
-
+(links to example viz here)
 
 <hr>
 
