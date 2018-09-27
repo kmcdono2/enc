@@ -7,7 +7,7 @@ layout: default
 
 ### Enlightenment Geographical Information
 
-<i class="fas fa-book-open"></i>
+<i class="fas fa-book-open fa-3x fa-pull-left"></i> This project...
 
 
 > "Questions of spatiality – the geography of and in things, be they places,
@@ -28,19 +28,22 @@ eighteenth century."[^1]
 
 ### Examples
 
-<li><i class="fas fa-globe-americas"></i> [Freysach]() </li>
+<ul class="fa-ul">
+<li><i class="fas fa-globe-americas"></i> Freysach </li>
+</ul>
 
 
-<hr>
 
-##### Footnotes:
+#### Footnotes:
 
 [^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," Journal for Eighteenth-Century Studies 34, no. 4 (2011): 449.
 
 
 
-### Cite this work
+#### Cite this work
 
 HOW TO CITE
+
+<hr>
 
 {% include sharing.html %}
