@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## Katherine McDonough
-## Ludovic Moncla
-## Matje van de Camp
+## Katherine McDonough, Ludovic Moncla, Matje van de Camp
 
 ### Project Introduction
 
@@ -15,19 +13,9 @@ Our work at the moment focuses on using new methods in Named Entity Recognition 
 We use a customized version of (PERDIDO)[http://erig.univ-pau.fr/PERDIDO/] to answer questions like:
 - What are the "black holes" of geographic information in early modern reference works?
 - How do authors structure the delivery of geographic information?
-
-Specifically for the Encyclopédie, we study:
-- The relationships between spatial information, people, ideas, and other entities (such as events, objects, or institutions);
-- How rural spaces are represented;
-- How we might re-categorize geography subject articles based on their content (e.g. biographical) rather than their temporal or political status (modern, ancient, ecclsiastical, etc.).
-
-##### Recent and forthcoming publications:
-
-Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities, 2019.
-
-Katherine McDonough, “Putting the Eighteenth Century on the Map: A Proposal for Early Modern French Geospatial Data Development,” in *Digitizing Enlightenment*, ed. by Glenn Roe and Simon Burrows (Oxford Studies in the Enlightenment, 2019).
-
-Katherine McDonough and Matje van de Camp, “Mapping the Encyclopédie: Geographic Text Analysis for the French Enlightenment,” *Proceedings: ACM SIGSPATIAL Workshop on Geospatial Humanities*, 7 November 2017.
+- What are the relationships between spatial information, people, ideas, and other entities (such as events, objects, or institutions)?
+- How are rural spaces represented?
+- How could we re-categorize geography subject articles based on their content (e.g. biographical) rather than their temporal or political status (modern, ancient, ecclesiastical, etc.)?
 
 ### Early Modern Geographical Information
 
@@ -46,7 +34,9 @@ geographically about intellectual history and the lived experience of the
 eighteenth century."[^1]
 
 
-<img align="right" width="100" src="images/ENC_7-608.jpeg" alt="page image">
+<img align="right" width="200" src="images/ENC_7-608.jpeg" alt="page image">
+
+
 
 
 ### Extended Named Entities
@@ -62,6 +52,14 @@ eighteenth century."[^1]
 #### Footnotes
 
 [^1]: Charles Withers and Robert Mayhew, "Geography: Space, Place and Intellectual History in the Eighteenth Century," *Journal for Eighteenth-Century Studies* 34, no. 4 (2011): 449.
+
+##### Recent and forthcoming publications:
+
+Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities, 2019.
+
+Katherine McDonough, “Putting the Eighteenth Century on the Map: A Proposal for Early Modern French Geospatial Data Development,” in *Digitizing Enlightenment*, ed. by Glenn Roe and Simon Burrows (Oxford Studies in the Enlightenment, 2019).
+
+Katherine McDonough and Matje van de Camp, “Mapping the Encyclopédie: Geographic Text Analysis for the French Enlightenment,” *Proceedings: ACM SIGSPATIAL Workshop on Geospatial Humanities*, 7 November 2017.
 
 #### Cite this work
 
