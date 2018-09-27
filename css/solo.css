@@ -145,6 +145,7 @@ hr {
 
 .img, .container iframe {
   max-width: 100%;
+  margin-left: 10px
 }
 
 a {
