@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 	<head>
         <meta charset="UTF-8">
@@ -7,8 +6,13 @@
 	</head>
 	<body>
 
-<div class="tab-content">
-<div class="tab-pane"> <!-- div or your tab -->
+		<ul id="profileTabs" class="nav nav-tabs">
+		    <li class="active"><a href="#Denat" data-toggle="tab">Profile</a></li>
+		    <li><a href="#about" data-toggle="tab">About</a></li>
+		    <li><a href="#match" data-toggle="tab">Match</a></li>
+		</ul>
+		  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="Denat">
 
 <p><span type="legend"><span><span type="ene_place">place</span> or <span
 type="ene_pers">person</span> extended named entity</span>
@@ -105,7 +109,7 @@ type="ene_pers">person</span> extended named entity</span>
 </div>
 
 
-<div class="tab-pane"> <!-- div or your tab -->
+<div role="tabpanel" class="tab-pane" id="Brassaw">
 
 <p><span type="legend"><span><span type="ene_place">place</span> or <span
 type="ene_pers">person</span> extended named entity</span>
@@ -132,6 +136,8 @@ type="ene_pers">person</span> extended named entity</span>
 </rs> ,<w lemma="ou" type="CONJC" xml:id="w5">ou</w>
 <rs>
 <name>
+
+
 <w type="NPr" lemma="" xml:id="w6">GRONSTAT</w>
 </name>
 </rs> ,(<rs>
