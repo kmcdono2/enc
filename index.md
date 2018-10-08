@@ -45,8 +45,6 @@ description of ENE...
 
 ### Examples
 
-(links to example viz here)
-
 {% include examples.html %}
 
 <hr>
