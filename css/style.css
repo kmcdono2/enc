@@ -74,7 +74,7 @@ rs[type="place"]:hover > location {
     position : absolute;
     margin-top:23px;
      margin-left:-35px;
-     
+
      background : WhiteSmoke;
      border : 1px solid gray;
      padding : 5px;
@@ -119,7 +119,7 @@ body > p {
     box-shadow: 0px 0px 3px #BBB;
 }
 
-s {
+c {
     display:inline-block;
     position: relative;
     padding: 10px;
@@ -128,9 +128,8 @@ s {
     color:black;
     text-align:justify;
     line-height: 150%;
-    vertical-align: middle;   
+    vertical-align: middle;
     color: black;
     font-size:14px;
 
 }
- 
