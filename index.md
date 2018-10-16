@@ -12,7 +12,15 @@ This site shares work-in-progress on space and place in Diderot and d'Alembert's
 
 Our work at the moment focuses on using new methods in Named Entity Recognition (NER) to interpret the spatial horizons of the *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres* (First Paris edition 1751-1772, in 17 volumes of text and 11 volumes of plates). There are 44,632 total text entries and 14,445 entries classified by the original editors as *Géographie*.
 
-We use a customized version of [PERDIDO](http://erig.univ-pau.fr/PERDIDO/=) to answer questions like:
+Our early work focused on developing a method for annotating the geographical information in the Encyclopédie. This work resulted in the [GeoViz](http://geoviz.taalmonsters.nl/) platform (created by Matje van de Camp). This annotation interface (not yet available publicly) permits researchers to view and edit geoparser XML output. Editing features include on-the-fly lookups of Geonames and DBpedia records matching place names in the text, differentiation of location types (real, historical, mythical/literary, sacred, extraterrestrial) and location positions relative to an article headword ("Paris is *contained within* France").
+
+<img align="center" width="600" src="images/geoviz.png" alt="GeoViz image">
+
+We used GeoViz to complete a set of gold standard annotations that helped to evaluate NER systems, since there is little to no information on the performance of these tools on early modern French texts. With this process now complete, we are both immersed in the texts of the Encyclopédie geography articles and aware of the current limitations of natural language processing for historical contexts. Foremost among these is the underlying assumption in NER that place names are entirely distinct from other entity types (people, for example) and that single- or multi-word place names can be extracted from their context without losing substantial meaning.
+
+We wish to challenge these assumptions. In doing so we not only reshape the goals of automatic geographic information retrieval, we also experience historical geographical texts in a new environment.
+
+We use a customized version of the NER and georesolution tool [PERDIDO](http://erig.univ-pau.fr/PERDIDO/) to answer questions like:
 - What are the "black holes" of geographic information in early modern reference works?
 - How do authors structure the delivery of geographic information?
 - What are the relationships between spatial information, people, ideas, and other entities (such as events, objects, or institutions)?
@@ -43,19 +51,20 @@ eighteenth century."[^1]
 
 In this project, we apply the concept of Extended Named Entities ([Moncla 2017](https://hal.archives-ouvertes.fr/hal-01492994/)) to collect contextual information about places named in the Encyclopédie. This development in Named Entity Recognition allows us to capture place-related information such as toponyms 1) embedded within other types of entities (official titles, institutions, objects, events), or 2) details extending from a named place that characterize or re-define a place ("la ville de Paris" vs. "une petite ville de France").
 
-The examples of Extended Named Entities (ENE) below demonstrate our preliminary work to visualize first-order embedded entities. Before more complex plans to capture adjacent verbs, adverbs, and adjectives, this fairly simple technique already provides new insight into the functions of geographical information in the Encyclopédie.
+The examples of Extended Named Entities (ENE) below demonstrate our preliminary work to visualize first-order embedded entities. Before more complex plans to capture adjacent verbs, adverbs, and adjectives, this fairly simple technique already provides new insights into the functions of geographical information in the Encyclopédie.
 
 ### Examples
 
 {% include examples.html %}
 
-<hr>
 
 ### Thoughts on Work in progress
 
+These varied examples
 
+<hr>
 
-##### Recent and forthcoming publications:
+#### Recent and forthcoming publications:
 
 (under review) Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities.
 
