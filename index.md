@@ -59,7 +59,7 @@ The examples of Extended Named Entities (ENE) below demonstrate our preliminary 
 
 #### Recent and forthcoming publications
 
-(under review) Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities.
+(under review) Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities, ed. by Patricia Murrieta-Flores and Bruno Martins.
 
 Katherine McDonough, “Putting the Eighteenth Century on the Map: A Proposal for Early Modern French Geospatial Data Development,” in *Digitizing Enlightenment*, ed. by Glenn Roe and Simon Burrows (Oxford Studies in the Enlightenment, 2019).
 
