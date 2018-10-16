@@ -14,7 +14,7 @@ Our work focuses on using new methods in Named Entity Recognition (NER) to inter
 
 Initially we focused on developing a method for annotating the geographical information in the Encyclopédie. This work resulted in the [GeoViz](http://geoviz.taalmonsters.nl/) platform (created by Matje van de Camp). This annotation interface (not yet available publicly) permits researchers to view and edit geoparser XML output. Editing features include on-the-fly lookups of Geonames and DBpedia records matching place names in the text, differentiation of location types (real, historical, mythical/literary, sacred, extraterrestrial) and location positions relative to an article headword ("Paris is *contained within* France").
 
-<img align="center" width="900" src="images/geoviz.png" alt="GeoViz image">
+[<img align="center" width="900" src="images/geoviz.png" alt="GeoViz image">](http://geoviz.taalmonsters.nl/documents?Metadata.gold%20standard[]=true&tab=name)
 
 We used GeoViz to complete a set of gold standard annotations that helped to evaluate NER systems, since there is little to no information on the performance of these tools on early modern French texts. With this process now complete, we are both immersed in the texts of the Encyclopédie geography articles and aware of the current limitations of natural language processing for historical contexts. Foremost among these is the underlying assumption in NER that place names are entirely distinct from other entity types (people, for example) and that single- or multi-word place names can be extracted from their context without losing substantial meaning.
 
