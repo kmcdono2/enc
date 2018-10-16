@@ -29,12 +29,10 @@ Using a customized version of the NER and georesolution tool [PERDIDO](http://er
 
 ### Early Modern Geographical Information
 
-thoughts...
-
 > "Questions of spatiality – the geography of and in things, be they places,
 peoples, books, ideas or representational procedures such as writing and
 mapping – are, like questions of temporality and embodiment, ontological
-fixtures.What may matter more in understanding questions of geography in
+fixtures. What may matter more in understanding questions of geography in
 relation to the eighteenth century is the form taken by geography the subject
 – geography as the practices by which the world was encountered and
 inscribed in word and image and made real to its audiences (and the
@@ -43,24 +41,19 @@ then also address the interpretative significance that comes with thinking
 geographically about intellectual history and the lived experience of the
 eighteenth century."[^1]
 
-
+This 2011 quotation from Charles Withers and Robert Mayhew captures two sides of the coin that often structure historical inquiries into geography - the geographical distribution of human activity and the invention of geographic science. Research often picks one or the other. In fact, as Withers and Mayhew suggest, these two approaches inform each other. Considering the ways that geography was publicized in printed media also requires understanding how knowledge was pieced together to make up these works. Our project examines the ways that space (as in, not only geographical places) is present in geographical texts, or, if you will, the spatiality of geographic writing during the early modern period.
 
 
 
 ### Extended Named Entities
 
-In this project, we apply the concept of Extended Named Entities ([Moncla 2017](https://hal.archives-ouvertes.fr/hal-01492994/)) to collect contextual information about places named in the Encyclopédie. This development in Named Entity Recognition allows us to capture place-related information such as toponyms 1) embedded within other types of entities (official titles, institutions, objects, events), or 2) details extending from a named place that characterize or re-define a place ("la ville de Paris" vs. "une petite ville de France").
+In this stage of the project, we apply the concept of Extended Named Entities ([Moncla 2017](https://hal.archives-ouvertes.fr/hal-01492994/)) to collect contextual information about places named in the Encyclopédie. This development in Named Entity Recognition allows us to capture place-related information such as toponyms 1) embedded within other types of entities (official titles, institutions, objects, events), or 2) details extending from a named place that characterize or re-define a place ("la ville de Paris" vs. "une petite ville de France").
 
 The examples of Extended Named Entities (ENE) below demonstrate our preliminary work to visualize first-order embedded entities. Before more complex plans to capture adjacent verbs, adverbs, and adjectives, this fairly simple technique already provides new insights into the functions of geographical information in the Encyclopédie.
 
 ### Examples
 
 {% include examples.html %}
-
-
-### Thoughts on Work in progress
-
-These varied examples
 
 <hr>
 
