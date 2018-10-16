@@ -25,5 +25,18 @@
     </div>
   </article>
 <script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('div.tabcontrol.body').each(function() {
+       $(this).html($('#' + $(this).data('defaultsource')).html());
+   });
+
+   // handle click on tabs
+   $('li.tabcontrol.tab').click(function() {
+       $('#' + $(this).data('target')).html( $('#' + $(this).data('source')).html());
+       $(this).siblings().removeClass('active');
+       $(this).addClass('active');
+   });
+  })
 </body>
 </html>
