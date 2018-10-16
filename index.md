@@ -41,13 +41,18 @@ eighteenth century."[^1]
 
 ### Extended Named Entities
 
-description of ENE...
+In this project, we apply the concept of Extended Named Entities ([Moncla 2017](https://hal.archives-ouvertes.fr/hal-01492994/)) to collect contextual information about places named in the Encyclopédie. This development in Named Entity Recognition allows us to capture place-related information such as toponyms 1) embedded within other types of entities (official titles, institutions, objects, events), or 2) details extending from a named place that characterize or re-define a place ("la ville de Paris" vs. "une petite ville de France").
+
+The examples of Extended Named Entities (ENE) below demonstrate our preliminary work to visualize first-order embedded entities. Before more complex plans to capture adjacent verbs, adverbs, and adjectives, this fairly simple technique already provides new insight into the functions of geographical information in the Encyclopédie.
 
 ### Examples
 
-{% include examples2.html %}
+{% include examples.html %}
 
 <hr>
+
+### Thoughts on Work in progress
+
 
 
 ##### Recent and forthcoming publications:
