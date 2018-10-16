@@ -10,17 +10,17 @@ This site shares work-in-progress on space and place in Diderot and d'Alembert's
 
 <img align="right" width="200" src="images/ENC_7-608.jpeg" alt="page image">
 
-Our work at the moment focuses on using new methods in Named Entity Recognition (NER) to interpret the spatial horizons of the *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres* (First Paris edition 1751-1772, in 17 volumes of text and 11 volumes of plates). There are 44,632 total text entries and 14,445 entries classified by the original editors as *Géographie*.
+Our work focuses on using new methods in Named Entity Recognition (NER) to interpret the spatial horizons of the *Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres* (First Paris edition 1751-1772, in 17 volumes of text and 11 volumes of plates). There are 44,632 total text entries and 14,445 entries classified by the original editors as *Géographie*.
 
-Our early work focused on developing a method for annotating the geographical information in the Encyclopédie. This work resulted in the [GeoViz](http://geoviz.taalmonsters.nl/) platform (created by Matje van de Camp). This annotation interface (not yet available publicly) permits researchers to view and edit geoparser XML output. Editing features include on-the-fly lookups of Geonames and DBpedia records matching place names in the text, differentiation of location types (real, historical, mythical/literary, sacred, extraterrestrial) and location positions relative to an article headword ("Paris is *contained within* France").
+Initially we focused on developing a method for annotating the geographical information in the Encyclopédie. This work resulted in the [GeoViz](http://geoviz.taalmonsters.nl/) platform (created by Matje van de Camp). This annotation interface (not yet available publicly) permits researchers to view and edit geoparser XML output. Editing features include on-the-fly lookups of Geonames and DBpedia records matching place names in the text, differentiation of location types (real, historical, mythical/literary, sacred, extraterrestrial) and location positions relative to an article headword ("Paris is *contained within* France").
 
-<img align="center" width="600" src="images/geoviz.png" alt="GeoViz image">
+<img align="center" width="900" src="images/geoviz.png" alt="GeoViz image">
 
 We used GeoViz to complete a set of gold standard annotations that helped to evaluate NER systems, since there is little to no information on the performance of these tools on early modern French texts. With this process now complete, we are both immersed in the texts of the Encyclopédie geography articles and aware of the current limitations of natural language processing for historical contexts. Foremost among these is the underlying assumption in NER that place names are entirely distinct from other entity types (people, for example) and that single- or multi-word place names can be extracted from their context without losing substantial meaning.
 
 We wish to challenge these assumptions. In doing so we not only reshape the goals of automatic geographic information retrieval, we also experience historical geographical texts in a new environment.
 
-We use a customized version of the NER and georesolution tool [PERDIDO](http://erig.univ-pau.fr/PERDIDO/) to answer questions like:
+Using a customized version of the NER and georesolution tool [PERDIDO](http://erig.univ-pau.fr/PERDIDO/), we set out to answer questions like:
 - What are the "black holes" of geographic information in early modern reference works?
 - How do authors structure the delivery of geographic information?
 - What are the relationships between spatial information, people, ideas, and other entities (such as events, objects, or institutions)?
