@@ -57,7 +57,7 @@ The examples of Extended Named Entities (ENE) below demonstrate our preliminary 
 
 <hr>
 
-#### Recent and forthcoming publications:
+#### Recent and forthcoming publications
 
 (under review) Katherine McDonough, Ludovic Moncla, and Matje van de Camp, “Named Entity Recognition Goes to Old Regime France: Geographic Text Analysis for Early Modern French Corpora,” *International Journal of Geographical Information Science*, Special Issue: Spatial Computing for the Digital Humanities.
 
